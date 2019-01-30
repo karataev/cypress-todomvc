@@ -1,0 +1,14 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^3.1.4",
+    "cyrillic-to-translit-js": "^2.1.0",
+    "faker": "^4.1.0"
+  }
+}
